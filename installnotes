@@ -1,0 +1,12 @@
+sudo apt update
+sudo apt upgrade
+nano
+man
+less
+neovim
+emacs
+screen
+git
+mkdir gh
+mkdir projects
+
