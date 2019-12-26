@@ -1,5 +1,13 @@
-sudo apt update
-sudo apt upgrade
+# Arch linux
+
+#Packages
+
+## pacman -Syu
+
+## pacman -S name of package
+
+
+
 nano
 man
 less
@@ -7,6 +15,11 @@ neovim
 emacs
 screen
 git
-mkdir gh
-mkdir projects
+
+# Directories
+
+gh
+projects
+
+# Files
 
