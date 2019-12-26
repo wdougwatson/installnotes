@@ -55,7 +55,7 @@ sudo tar -xwvpf <i>package_name-version.tar.xz</i> -C / --exclude .PKGINFO --exc
 
 ## Package List
 
-` nano man less joe neovim emacs screen git fish base-devel fzf neofetch tmux htop gnupg openssh ripgrep stow ag p7zip unrar `
+` nano man less joe neovim emacs screen git fish base-devel fzf neofetch tmux htop gnupg openssh ripgrep stow ag p7zip unrar tree `
 
 # Directories
 
