@@ -55,18 +55,13 @@ sudo tar -xwvpf <i>package_name-version.tar.xz</i> -C / --exclude .PKGINFO --exc
 
 ## Package List
 
-nano
-man
-less
-joe
-neovim
-emacs
-screen
-git
+` nano man less joe neovim emacs screen git fish `
 
 # Directories
 
 gh
+
+
 projects
 
 # Files
